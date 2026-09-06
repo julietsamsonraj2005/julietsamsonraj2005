@@ -62,12 +62,12 @@ Full-stack fitness platform with workout tracking, BMI calculation, and personal
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julietsamsonraj2005&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-gules.vercel.app/api?username=julietsamsonraj2005&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julietsamsonraj2005" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietsamsonraj2005&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=julietsamsonraj2005&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 ---
