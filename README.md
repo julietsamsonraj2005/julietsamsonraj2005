@@ -47,15 +47,17 @@
 
 ### 🔥 Featured Projects
 
-#### 🏥 [HealthAI — AI-Based Health Risk Prediction System](#)
+#### 🏥 [HealthAI — AI-Based Health Risk Prediction System](https://github.com/julietsamsonraj2005/healthai)
 AI healthcare app predicting health risks using a Random Forest model. Built a four-layer architecture (Presentation, Application, Predictive Analytics, Data Persistence) with secure REST APIs connecting a React frontend, ML model, and MongoDB.
 `React` `FastAPI/Flask` `Scikit-learn` `MongoDB`
 
-#### 💪 [FitMentor — Fitness Management Web Application](#)
+#### 💪 [FitMentor — Fitness Management Web Application](https://github.com/julietsamsonraj2005/fit-mentor)
 Full-stack fitness platform with workout tracking, BMI calculation, and personalized workout/diet plans. Includes secure authentication, profile management, progress tracking, and an admin dashboard.
 `HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL`
 
-> Replace the `#` links above with your actual repo URLs once you push these projects (or link them if they're already on GitHub).
+#### 📝 [Doc_Genie — Python Docstring Generator](https://github.com/julietsamsonraj2005/Doc_Genie)
+Developer tool that analyzes Python functions, including loops and conditionals, and automatically writes Google-style or NumPy-style docstrings. Includes a Gradio web interface and PDF report export.
+`Python` `ast` `Gradio` `ReportLab`
 
 ---
 
