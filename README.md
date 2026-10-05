@@ -1,76 +1,68 @@
 <h1 align="center">Juliet Samson Raj S</h1>
-<p align="center"><b>Aspiring AI Engineer</b> · M.Sc. Artificial Intelligence</p>
+<h3 align="center">Aspiring AI Engineer</h3>
+<p align="center">M.Sc. Artificial Intelligence student building machine learning products, from model to interface.</p>
+
 <p align="center">
-  <a href="https://julietsamsonraj2005.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/juliet-samson-raj-s-12a8b2315/">LinkedIn</a> ·
-  <a href="mailto:julietsamsonraj2005@gmail.com">Email</a>
+  <a href="https://julietsamsonraj2005.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-6B7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/juliet-samson-raj-s-12a8b2315/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:julietsamsonraj2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## Summary
+## About
 
-M.Sc. Artificial Intelligence student with hands-on experience in Python, Scikit-learn, REST APIs and React. I build machine learning products end to end: training the model, exposing it through an API and delivering it in a usable interface.
+I turn trained models into complete applications: the predictions, the REST API behind them and the interface people use. My work covers the full path from data and model training to backend services and web front ends.
 
-## Education
+| | |
+|---|---|
+| **Education** | M.Sc. Artificial Intelligence (2026–2028), St. Joseph's College (Autonomous), Tiruchirappalli |
+| | B.Sc. Computer Science (2023–2026), Malankara Catholic College, Mariagiri |
+| **Experience** | MERN Stack Development internship, Srishti Innovative Educational Services (2 weeks) |
+| **Focus** | Machine learning applications, REST APIs, full-stack development |
 
-| Program | Institution | Years |
-|---|---|---|
-| M.Sc. Artificial Intelligence | St. Joseph's College (Autonomous), Tiruchirappalli | 2026 – 2028 |
-| B.Sc. Computer Science | Malankara Catholic College, Mariagiri | 2023 – 2026 |
-
-## Experience
-
-**MERN Stack Development Intern** · Srishti Innovative Educational Services, Trivandrum
-Two-week internship building web applications with the MERN stack.
+---
 
 ## Technical Skills
 
-| Area | Technologies |
+| Area | Tools |
 |---|---|
-| Languages | Python, C++, JavaScript, PHP |
-| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
-| Backend | FastAPI, Flask, REST APIs |
-| Frontend | React, HTML, CSS, Bootstrap |
-| Databases | MySQL, MongoDB |
-| Tools | Git, GitHub |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-## Selected Projects
+---
 
-### [HealthAI](https://github.com/julietsamsonraj2005/healthai): AI-Based Health Risk Prediction System
+## Featured Projects
 
-Predicts health risk from user-entered health parameters using a Random Forest model.
+### [HealthAI: AI-Based Health Risk Prediction System](https://github.com/julietsamsonraj2005/healthai)
+Predicts health risks from health parameters using a Random Forest model.
 
 - Four-layer architecture: Presentation, Application, Predictive Analytics and Data Persistence
 - Secure REST APIs connect the React frontend, the ML model and MongoDB
 
-**Stack:** React · FastAPI / Flask · Scikit-learn · MongoDB
+`React` `FastAPI / Flask` `Scikit-learn` `MongoDB`
 
-```mermaid
-flowchart LR
-    A["Presentation<br/>React"] -->|REST API| B["Application<br/>FastAPI / Flask"]
-    B --> C["Predictive Analytics<br/>Random Forest"]
-    B --> D[("Data Persistence<br/>MongoDB")]
-```
-
-### [FitMentor](https://github.com/julietsamsonraj2005/fit-mentor): Fitness Management Web Application
-
-Full-stack platform for tracking workouts and following personalized plans.
+### [FitMentor: Fitness Management Web Application](https://github.com/julietsamsonraj2005/fit-mentor)
+Full-stack fitness platform for tracking workouts and following personalized plans.
 
 - Workout tracking, BMI calculation, and personalized workout and diet plans
 - Secure authentication, profile management, progress tracking and an admin dashboard
 
-**Stack:** HTML · CSS · JavaScript · Bootstrap · PHP · MySQL
+`HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL`
 
-### [Doc_Genie](https://github.com/julietsamsonraj2005/Doc_Genie): Python Docstring Generator
+### [Doc_Genie: Python Docstring Generator](https://github.com/julietsamsonraj2005/Doc_Genie)
+Developer tool that writes documentation for Python code automatically.
 
-Developer tool that documents Python code automatically.
-
-- Analyzes functions, including loops and conditionals, with Python's `ast` module
-- Generates Google-style or NumPy-style docstrings
+- Analyzes functions, including loops and conditionals, and generates Google-style or NumPy-style docstrings
 - Gradio web interface with PDF report export
 
-**Stack:** Python · ast · Gradio · ReportLab
+`Python` `ast` `Gradio` `ReportLab`
+
+---
 
 ## Contact
 
