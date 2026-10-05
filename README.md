@@ -1,6 +1,10 @@
-<h1 align="center">Juliet Samson Raj S</h1>
-<h3 align="center">Aspiring AI Engineer</h3>
-<p align="center">M.Sc. Artificial Intelligence student building machine learning products, from model to interface.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1e,100:6b7cff&height=210&section=header&text=Juliet%20Samson%20Raj%20S&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Juliet Samson Raj S, Aspiring AI Engineer" />
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=4FD1C5&center=true&vCenter=true&width=640&lines=M.Sc.+Artificial+Intelligence+student;Building+ML+products+from+model+to+interface;Python+%7C+Scikit-learn+%7C+FastAPI+%7C+React" alt="Typing animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://julietsamsonraj2005.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-6B7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -14,58 +18,123 @@
 
 I turn trained models into complete applications: the predictions, the REST API behind them and the interface people use. My work covers the full path from data and model training to backend services and web front ends.
 
-| | |
-|---|---|
-| **Education** | M.Sc. Artificial Intelligence (2026–2028), St. Joseph's College (Autonomous), Tiruchirappalli |
-| | B.Sc. Computer Science (2023–2026), Malankara Catholic College, Mariagiri |
-| **Experience** | MERN Stack Development internship, Srishti Innovative Educational Services (2 weeks) |
-| **Focus** | Machine learning applications, REST APIs, full-stack development |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Education</b><br />
+      M.Sc. Artificial Intelligence (2026–2028)<br />
+      <sub>St. Joseph's College (Autonomous), Tiruchirappalli</sub><br /><br />
+      B.Sc. Computer Science (2023–2026)<br />
+      <sub>Malankara Catholic College, Mariagiri</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Experience</b><br />
+      MERN Stack Development Intern<br />
+      <sub>Srishti Innovative Educational Services, Trivandrum (2 weeks)</sub><br /><br />
+      <b>Focus</b><br />
+      <sub>Machine learning applications, REST APIs, full-stack development</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-| Area | Tools |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,cpp,js,php" alt="Python, C++, JavaScript, PHP" /></td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" />
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask" alt="FastAPI, Flask" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" alt="React, Bootstrap, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /></td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-### [HealthAI: AI-Based Health Risk Prediction System](https://github.com/julietsamsonraj2005/healthai)
-Predicts health risks from health parameters using a Random Forest model.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/julietsamsonraj2005/healthai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julietsamsonraj2005&repo=healthai&theme=tokyonight&hide_border=true" alt="HealthAI" /></a>
+      <br /><b>HealthAI: AI-Based Health Risk Prediction</b>
+      <ul>
+        <li>Random Forest model trained on health parameters to predict risk</li>
+        <li>Four-layer architecture with secure REST APIs</li>
+      </ul>
+      <code>React</code> <code>FastAPI / Flask</code> <code>Scikit-learn</code> <code>MongoDB</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/julietsamsonraj2005/fit-mentor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julietsamsonraj2005&repo=fit-mentor&theme=tokyonight&hide_border=true" alt="FitMentor" /></a>
+      <br /><b>FitMentor: Fitness Management Platform</b>
+      <ul>
+        <li>Workout tracking, BMI calculation, personalized workout and diet plans</li>
+        <li>Secure authentication, progress tracking, admin dashboard</li>
+      </ul>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Bootstrap</code> <code>PHP</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/julietsamsonraj2005/Doc_Genie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julietsamsonraj2005&repo=Doc_Genie&theme=tokyonight&hide_border=true" alt="Doc_Genie" /></a>
+      <br /><b>Doc_Genie: Python Docstring Generator</b>
+      <ul>
+        <li>Analyzes functions, loops and conditionals, then writes Google-style or NumPy-style docstrings</li>
+        <li>Gradio web interface with PDF report export</li>
+      </ul>
+      <code>Python</code> <code>ast</code> <code>Gradio</code> <code>ReportLab</code>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-- Four-layer architecture: Presentation, Application, Predictive Analytics and Data Persistence
-- Secure REST APIs connect the React frontend, the ML model and MongoDB
+### HealthAI architecture
 
-`React` `FastAPI / Flask` `Scikit-learn` `MongoDB`
+```mermaid
+flowchart LR
+    A["Presentation<br/>React"] -->|REST API| B["Application<br/>FastAPI / Flask"]
+    B --> C["Predictive Analytics<br/>Scikit-learn Random Forest"]
+    B --> D[("Data Persistence<br/>MongoDB")]
+```
 
-### [FitMentor: Fitness Management Web Application](https://github.com/julietsamsonraj2005/fit-mentor)
-Full-stack fitness platform for tracking workouts and following personalized plans.
+---
 
-- Workout tracking, BMI calculation, and personalized workout and diet plans
-- Secure authentication, profile management, progress tracking and an admin dashboard
+## GitHub Activity
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL`
-
-### [Doc_Genie: Python Docstring Generator](https://github.com/julietsamsonraj2005/Doc_Genie)
-Developer tool that writes documentation for Python code automatically.
-
-- Analyzes functions, including loops and conditionals, and generates Google-style or NumPy-style docstrings
-- Gradio web interface with PDF report export
-
-`Python` `ast` `Gradio` `ReportLab`
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julietsamsonraj2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietsamsonraj2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 ## Contact
 
-- Email: [julietsamsonraj2005@gmail.com](mailto:julietsamsonraj2005@gmail.com)
-- LinkedIn: [juliet-samson-raj-s](https://www.linkedin.com/in/juliet-samson-raj-s-12a8b2315/)
-- Portfolio: [julietsamsonraj2005.github.io](https://julietsamsonraj2005.github.io/)
+<p align="center">
+  <a href="mailto:julietsamsonraj2005@gmail.com">julietsamsonraj2005@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://julietsamsonraj2005.github.io/">julietsamsonraj2005.github.io</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1e,100:6b7cff&height=100&section=footer" width="100%" alt="" />
